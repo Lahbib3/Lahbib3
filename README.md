@@ -5,9 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Architecting+Microservices+%26+CRM%2FSaaS+Platforms;C%23+%2F+ASP.NET+Core+%7C+Python+%7C+ReactJS;Exploring+RAG+Pipelines+%26+Local+LLMs;Based+in+Casablanca%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Architecting+Microservices+%26+CRM%2FSaaS+Platforms;C%23+%2F+ASP.NET+Core+%7C+Python+%7C+ReactJS;Exploring+RAG+Pipelines+%26+Local+LLMs;Based+in+Casablanca%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,7 +35,7 @@ location: Casablanca, Morocco
 education: State Engineer Degree in Computer Engineering — AIAC
 focus: Microservices-based CRM/SaaS platforms, client-oriented architecture
 currently_exploring: RAG pipelines, local LLM integration
-languages: [English C1, French Fluent, Spanish B1, Arabic Native]
+languages: [English C1, French C1, Spanish B1, Arabic Native]
 fun_fact: Game Development Lead @ AIAC IT Club 🎮
 ```
 
@@ -69,7 +67,7 @@ fun_fact: Game Development Lead @ AIAC IT Club 🎮
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lahbib3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahbib3&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Lahbib3&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165" />
 </p>
 
 <p align="center">
@@ -79,6 +77,8 @@ fun_fact: Game Development Lead @ AIAC IT Club 🎮
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lahbib3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="95%" />
 </p>
+
+> 💡 These stat cards load live from your GitHub activity — they'll fill in automatically as your public repos and contributions grow.
 
 ---
 
@@ -114,16 +114,6 @@ fun_fact: Game Development Lead @ AIAC IT Club 🎮
 </td>
 </tr>
 </table>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lahbib3/Lahbib3/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-<sub><i>⚙️ This animates automatically once you add the snake GitHub Action — see the note below.</i></sub>
 
 ---
 
