@@ -1,10 +1,10 @@
 <!-- Animated header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Lahbib%20Hachami&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20AI%20Systems%20Engineer&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:2563EB&height=200&section=header&text=Lahbib%20Hachami&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20and%20AI%20Systems%20Engineer&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <i>Architecting microservices &amp; CRM/SaaS platforms · C# / ASP.NET Core · Python · ReactJS · Casablanca, Morocco 🇲🇦</i>
+  <i>Architecting microservices and CRM/SaaS platforms · C# / ASP.NET Core · Python · ReactJS · Casablanca, Morocco 🇲🇦</i>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ```yaml
 name: Lahbib Hachami
-role: Software & AI Systems Engineer
+role: Software and AI Systems Engineer
 location: Casablanca, Morocco
 education: State Engineer Degree in Computer Engineering — AIAC
 focus: Microservices-based CRM/SaaS platforms, client-oriented architecture
@@ -48,11 +48,11 @@ fun_fact: Game Development Lead @ AIAC IT Club 🎮
 
 | Category | Stack |
 |---|---|
-| **Languages & Core** | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend & Architecture** | ![.NET](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?style=flat-square) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **Languages and Core** | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Backend and Architecture** | ![.NET](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?style=flat-square) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Data & AI** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG%20Pipelines-412991?style=flat-square) ![LLM](https://img.shields.io/badge/-Local%20LLMs-10A37F?style=flat-square) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Data and AI** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG%20Pipelines-412991?style=flat-square) ![LLM](https://img.shields.io/badge/-Local%20LLMs-10A37F?style=flat-square) |
+| **Tools and DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 </details>
 
@@ -101,4 +101,4 @@ fun_fact: Game Development Lead @ AIAC IT Club 🎮
 
 <p align="center"><i>"Transforming complex requirements into clear, secure, high-performance software."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:6D28D9&height=100&section=footer" width="100%" />
