@@ -3,9 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Lahbib%20Hachami&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20AI%20Systems%20Engineer&descAlignY=58&descSize=20" width="100%" />
 </p>
 
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Architecting+Microservices+%26+CRM%2FSaaS+Platforms;C%23+%2F+ASP.NET+Core+%7C+Python+%7C+ReactJS;Exploring+RAG+Pipelines+%26+Local+LLMs;Based+in+Casablanca%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+  <i>Architecting microservices &amp; CRM/SaaS platforms · C# / ASP.NET Core · Python · ReactJS · Casablanca, Morocco 🇲🇦</i>
 </p>
 
 <p align="center">
@@ -18,10 +17,6 @@
   <a href="https://github.com/Lahbib3">
     <img src="https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lahbib3&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 ---
@@ -63,25 +58,6 @@ fun_fact: Game Development Lead @ AIAC IT Club 🎮
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lahbib3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Lahbib3&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahbib3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lahbib3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="95%" />
-</p>
-
-> 💡 These stat cards load live from your GitHub activity — they'll fill in automatically as your public repos and contributions grow.
-
----
-
 ### 💼 Experience Timeline
 
 <table>
@@ -89,28 +65,28 @@ fun_fact: Game Development Lead @ AIAC IT Club 🎮
 <td width="110"><b>2026</b></td>
 <td>
 <b>Final-Year Project Intern</b> — Teal Technology Services (OCP Group / ex-IBM)<br/>
-<sub>Architected the NIDDAM Audit Platform with microservices &amp; ASP.NET Core · Integrated local LLMs with Python microservices for automated document analysis</sub>
+<sub>Architected an enterprise audit platform, modernizing compliance workflows and automating document analysis.</sub>
 </td>
 </tr>
 <tr>
 <td><b>2026</b></td>
 <td>
 <b>Software Engineering Intern</b> — Top Négoce<br/>
-<sub>Built internal management apps with C# / ASP.NET Core &amp; ReactJS · Automated backend sync pipelines</sub>
+<sub>Built internal management applications and automated backend synchronization pipelines, streamlining order processing.</sub>
 </td>
 </tr>
 <tr>
 <td><b>2024</b></td>
 <td>
 <b>Application Development Intern</b> — Akilek Consulting<br/>
-<sub>Delivered Cloud Backup interfaces with ReactJS &amp; ASP.NET Core · SOAP/REST endpoints tested via Postman</sub>
+<sub>Delivered responsive cloud backup interfaces and tested web service endpoints to maintain full coverage.</sub>
 </td>
 </tr>
 <tr>
 <td><b>2023</b></td>
 <td>
 <b>Observation Intern</b> — Société Générale<br/>
-<sub>Explored secure banking IT infrastructure · Built an internal HR claim management portal</sub>
+<sub>Analyzed secure banking IT infrastructure and developed an internal HR claim management portal.</sub>
 </td>
 </tr>
 </table>
